@@ -17,7 +17,7 @@
    
 ## 🧐 About
 
-- Hi, I'm deax. I am a 1st year high school student and I have been spending time with codes for about 2 years. I really dont know anything more about me.
+- Hi, I'm deax. I am a 2nd year high school student and I have been spending time with codes for about 2 years. I really dont know anything more about me.
 - 👨‍💻 Website: http://deax.ml
 - 📫 How to reach me: deaxlive@gmail.com
   
