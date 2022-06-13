@@ -36,7 +36,5 @@
    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=DeaxTV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
    <img align="right" width="50%" src="https://activity-graph.herokuapp.com/graph?username=DeaxTV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 </div>
-# ⚽ Profile
-[![Discord Presence](https://lanyard.cnrad.dev/api/439450931579453440)](https://discord.com/users/439450931579453440)
 <br />
 <br />
