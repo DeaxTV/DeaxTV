@@ -18,8 +18,8 @@
 ## 🧐 About
 
 - Hi, I'm deax. I am a 2nd year high school student and I have been spending time with codes for about 2 years. I really dont know anything more about me.
-- 👨‍💻 Website: https://deax.ml
-- 📫 How to reach me: deaxlive@gmail.com
+- 👨‍💻 Website: https://deax.tk
+- 📫 How to reach me: deaxhelp@gmail.com
   
 <br />
    
