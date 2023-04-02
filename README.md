@@ -8,7 +8,7 @@
 
 # 𝗛𝗲𝗹𝗹𝗼 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27"> 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deaxlive@gmail.com)](deaxlive@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@deax.tk)](me@deax.tk)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DeaxTV)
 
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DeaxTV&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
