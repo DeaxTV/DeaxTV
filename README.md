@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/DeaxTV/">
-  <img  src="https://github.com/DeaxTV/DeaxTV/blob/output/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/DeaxTV/DeaxTV/blob/output/github-contribution-grid-snake-dark.svg"
        alt="snake" /></a>
 </div>
 
