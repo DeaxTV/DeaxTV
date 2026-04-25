@@ -17,9 +17,9 @@
    
 ## 🧐 About
 
-- Hi, I'm Deax. I am a 3rd year high school student and I have been spending time with codes for about 2 years. I really dont know anything more about me.
-- 👨‍💻 Website: https://deax.tk
-- 📫 How to reach me: me@deax.tk
+- Hi, I'm Deax. I am a freshman in college and I have been spending time with codes for about 7 years. I really dont know anything more about me.
+- 👨‍💻 Company Website: https://eosapien.com
+- 📫 How to reach me: efe@not.tf
   
 <br />
    
