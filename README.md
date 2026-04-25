@@ -25,7 +25,7 @@
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=nextjs,javascript,typescript,python,tailwindcss,mongodb,github,git,nodejs,webpack,react,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,javascript,typescript,python,tailwindcss,mongodb,github,git,nodejs,webpack,react,express,unity,vue,vite,md,babel,lua&theme=dark" />
 </div>
 
 <br />
